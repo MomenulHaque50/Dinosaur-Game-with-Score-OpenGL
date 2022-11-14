@@ -1,6 +1,6 @@
 # Dinosaur-Game-with-Score-OpenGL
 
-1) Dinosaur can move forward on left arrow key.
+1) Dinosaur can move forward on right arrow key.
 
 2) Dinosaur can jump on up arrow key.
 
