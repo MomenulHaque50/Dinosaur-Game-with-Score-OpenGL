@@ -8,4 +8,6 @@
 
 4) If dinosaur touch the tree it will reset the game and score will be zero.
 
+5) For Game Quit press 'q' on keyboard.
+
 Thank you!!
